@@ -31,5 +31,5 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [[YOUR_LINKEDIN_LINK  ]()](https://www.linkedin.com/in/raj-gupta19/)
+- LinkedIn:https://www.linkedin.com/in/raj-gupta19/
 - Email: raj21410@iiitd.ac.in
