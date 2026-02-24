@@ -19,17 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajgupta19&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta19&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/raj-gupta19/
 - Email: raj21410@iiitd.ac.in
