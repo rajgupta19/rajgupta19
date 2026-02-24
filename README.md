@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raj Gupta</h1>
+<h3 align="center">M.Tech CSE @ IIIT Delhi | Backend & AI Systems</h3>
 
-<!--
-**rajgupta19/rajgupta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 M.Tech in Computer Science, IIIT Delhi  
+- 🔬 CHI 2024 Author  
+- 💻 Interested in Backend Engineering, Systems & AI-driven applications  
+- ⚙️ Building scalable software systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,sql,flask,linux,git,github,vscode,html,css,sqlite" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajgupta19&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta19&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: [[YOUR_LINKEDIN_LINK  ]()](https://www.linkedin.com/in/raj-gupta19/)
+- Email: raj21410@iiitd.ac.in
